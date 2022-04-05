@@ -1,16 +1,23 @@
 # qr-code-component
 
-
-
+>
 > - credit:
 >   <https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-GZBlpmhQ3>
 
+---
 
 ## Target
 
 - mobile
+  - <https://raw.githubusercontent.com/Learn-At-FrontendMentor/qr-code-component/main/_qr-code-intro/design/mobile-design.jpg>
+
 - desktop
+  - <https://raw.githubusercontent.com/Learn-At-FrontendMentor/qr-code-component/main/_qr-code-intro/design/desktop-design.jpg>
+
 - style-guide
+  - <https://github.com/Learn-At-FrontendMentor/qr-code-component/blob/main/_qr-code-intro/style-guide.md>
+
+---
 
 ## TODO
 
@@ -28,7 +35,7 @@
 
 - [-] CSS
 >
-> - 好想睡覺、好像哪裡怪怪的QQ
+> - ~~好想睡覺、好像哪裡怪怪的QQ~~
 >
 
 ---
