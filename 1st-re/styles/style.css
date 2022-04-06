@@ -18,38 +18,16 @@ body {
   min-width: 375px;
 }
 
-.min-h-screen {
-  min-height: 100vh;
-}
-
-.mx-auto {
-  margin-left: auto;
-  margin-right: auto;
+.m0-auto {
+  margin: 0 auto;
 }
 
 .p-4 {
   padding: 1rem;
 }
 
-.flex {
-  display: flex;
-}
-
-.flex-col {
-  flex-direction: column;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-
 .w-full {
   width: 100%;
-}
-
-.w-72 {
-  width: 18rem;
 }
 
 .h-full {
@@ -88,19 +66,8 @@ img {
   border-radius: 0.5rem;
 }
 
-
-.top-half {
-  top: 50%;
-}
-
-.left-half {
-  left: 50%;
-}
-
-
 .card {
   background-color: hsl(0, 0%, 100%);
-  transform: translate(-50%, -50%);
 }
 
 .card-body {
