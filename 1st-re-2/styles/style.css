@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+  outline: 1px solid #f73;
+
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+.container {
+  max-width: 375px;
+  /* min-width: 320px; */
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.m0-auto {
+  margin: 0 auto;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.max-h-screen {
+  max-height: 100vh;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+} 
+
+.top-0 {
+  top: 0;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.card {
+  background-color: var(--white);
+}
